@@ -10,7 +10,7 @@ A webpage to search for GitHub repositories using GitHub's API.
 ##Setup Instructions
 
 Open Terminal and clone this repository:
-https://github.com/patternandshape/github-api.git
+https://github.com/eddieduro/alarm_clock_js.git
 Within the project directory run:
 $ npm install
 $ bower install
